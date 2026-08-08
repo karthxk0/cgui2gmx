@@ -92,4 +92,4 @@ The script will now take over. It will display a progress bar and start running 
 5. **Data Visualization:** Parses the raw text of the `.xvg` files (ignoring GROMACS header comments) and uses `matplotlib` to render clean, readable graphs.
 
 ---
-*Note: AI was utilized to assist in the debugging, restructuring, and refinement of the code*
+*Note: LLMs were utilized to assist in the debugging and refinement of the code*
